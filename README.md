@@ -11,7 +11,7 @@ Link Vault is a Chrome extension that allows you to save and manage URLs in your
 
 ## Installation
 
-1. [Clone](https:) the repository or [download the source code.](https://github.com/obere4u/Link_Vault)
+1. [Clone](https://github.com/obere4u/Link_Vault.git) the repository or [download the source code.](https://github.com/obere4u/Link_Vault)
 2. Open Google Chrome and go to `chrome://extensions`.
 3. Enable Developer Mode by toggling the switch in the top right corner.
 4. Click on "Load Unpacked" and select the directory where you cloned/downloaded the source code.
